@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BuilderX - AI-Powered Web App Builder
 
 A comprehensive web application builder that enables users to create React and Node.js websites using AI assistance. Design, preview, edit, and download complete projects.
@@ -76,7 +77,7 @@ A comprehensive web application builder that enables users to create React and N
 
 7. **Open the app**
    
-   Navigate to [http://localhost:3000](http://localhost:3000)
+   Navigate to [https://builder-x-nine.vercel.app](https://builder-x-nine.vercel.app)
 
 ## Environment Variables
 
@@ -94,7 +95,7 @@ GEMINI_API_KEY=your-gemini-api-key
 OLLAMA_BASE_URL=http://localhost:11434
 
 # Development Redirect URL (Auto-set in v0, optional locally)
-NEXT_PUBLIC_DEV_SUPABASE_REDIRECT_URL=http://localhost:3000/auth/callback
+NEXT_PUBLIC_DEV_SUPABASE_REDIRECT_URL=https://builder-x-nine.vercel.app/auth/callback
 ```
 
 ### Getting API Keys
@@ -181,3 +182,7 @@ All tables have Row Level Security (RLS) enabled.
 ## License
 
 MIT
+=======
+# BulderX
+Ai code Builder just prompt and create basic project 
+>>>>>>> f0d3f1c05dfcd5d1d3f4f17febac23f136756d3c

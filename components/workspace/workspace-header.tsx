@@ -66,7 +66,7 @@ Generated with BuilderX
    npm run dev
    \`\`\`
 
-3. Open [http://localhost:3000](http://localhost:3000) in your browser.
+3. Open [https://builder-x-nine.vercel.app](https://builder-x-nine.vercel.app) in your browser.
 
 ## Project Structure
 
